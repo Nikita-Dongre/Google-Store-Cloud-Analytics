@@ -1,0 +1,736 @@
+processed_input,weight,category_weights
+__INTERCEPT__,-1.0985636428164085,"{
+  ""category_weights"": []
+}"
+bounces,-0.49274819106587525,"{
+  ""category_weights"": []
+}"
+pageviews,0.10534010684491127,"{
+  ""category_weights"": []
+}"
+hits,0.059169557201272427,"{
+  ""category_weights"": []
+}"
+time_on_site,0.0009186570843158461,"{
+  ""category_weights"": []
+}"
+visits,0.0,"{
+  ""category_weights"": []
+}"
+channelGrouping,,"{
+  ""category_weights"": [{
+    ""category"": ""Affiliates"",
+    ""weight"": ""-0.95521905460530632""
+  }, {
+    ""category"": ""(Other)"",
+    ""weight"": ""-0.75512163682771161""
+  }, {
+    ""category"": ""Social"",
+    ""weight"": ""-0.74340005419650934""
+  }, {
+    ""category"": ""Organic Search"",
+    ""weight"": ""-0.64824789606228639""
+  }, {
+    ""category"": ""Paid Search"",
+    ""weight"": ""-0.52607322817010882""
+  }, {
+    ""category"": ""Display"",
+    ""weight"": ""-0.48637019929121922""
+  }, {
+    ""category"": ""Direct"",
+    ""weight"": ""-0.37013694855069418""
+  }, {
+    ""category"": ""Referral"",
+    ""weight"": ""0.24115746742222149""
+  }]
+}"
+deviceCategory,,"{
+  ""category_weights"": [{
+    ""category"": ""tablet"",
+    ""weight"": ""-0.8567230973247566""
+  }, {
+    ""category"": ""mobile"",
+    ""weight"": ""-0.83771072575142425""
+  }, {
+    ""category"": ""desktop"",
+    ""weight"": ""-0.45246310393934863""
+  }]
+}"
+country,,"{
+  ""category_weights"": [{
+    ""category"": ""San Marino"",
+    ""weight"": ""-2.1461521800845555""
+  }, {
+    ""category"": ""St. Vincent \u0026 Grenadines"",
+    ""weight"": ""-1.9258926605295068""
+  }, {
+    ""category"": ""Isle of Man"",
+    ""weight"": ""-1.7197436023494186""
+  }, {
+    ""category"": ""Monaco"",
+    ""weight"": ""-1.7229577503324691""
+  }, {
+    ""category"": ""Papua New Guinea"",
+    ""weight"": ""-1.3971558798223591""
+  }, {
+    ""category"": ""Congo - Brazzaville"",
+    ""weight"": ""-1.2682836144467502""
+  }, {
+    ""category"": ""Martinique"",
+    ""weight"": ""-1.3574912035771063""
+  }, {
+    ""category"": ""Guatemala"",
+    ""weight"": ""-1.3415034168526085""
+  }, {
+    ""category"": ""El Salvador"",
+    ""weight"": ""-1.3210485066368649""
+  }, {
+    ""category"": ""Paraguay"",
+    ""weight"": ""-1.3134771406372949""
+  }, {
+    ""category"": ""Suriname"",
+    ""weight"": ""-1.3136613357316529""
+  }, {
+    ""category"": ""Panama"",
+    ""weight"": ""-1.2753808874117725""
+  }, {
+    ""category"": ""Luxembourg"",
+    ""weight"": ""-1.2577078301174642""
+  }, {
+    ""category"": ""Trinidad \u0026 Tobago"",
+    ""weight"": ""-1.2400347200568569""
+  }, {
+    ""category"": ""Guyana"",
+    ""weight"": ""-1.2549509683132083""
+  }, {
+    ""category"": ""Myanmar (Burma)"",
+    ""weight"": ""-1.2342095019478352""
+  }, {
+    ""category"": ""Equatorial Guinea"",
+    ""weight"": ""-1.0986858570899218""
+  }, {
+    ""category"": ""Sri Lanka"",
+    ""weight"": ""-1.159527596104325""
+  }, {
+    ""category"": ""Costa Rica"",
+    ""weight"": ""-1.1594417030589246""
+  }, {
+    ""category"": ""Sint Maarten"",
+    ""weight"": ""-1.1070410098913075""
+  }, {
+    ""category"": ""Jersey"",
+    ""weight"": ""-1.135740369090239""
+  }, {
+    ""category"": ""French Polynesia"",
+    ""weight"": ""-1.171200402191924""
+  }, {
+    ""category"": ""Benin"",
+    ""weight"": ""-1.1379087667141357""
+  }, {
+    ""category"": ""Cayman Islands"",
+    ""weight"": ""-1.1007221011145982""
+  }, {
+    ""category"": ""Estonia"",
+    ""weight"": ""-1.107608177784539""
+  }, {
+    ""category"": ""Guam"",
+    ""weight"": ""-1.1031276182124385""
+  }, {
+    ""category"": ""Belgium"",
+    ""weight"": ""-1.1026051822023248""
+  }, {
+    ""category"": ""Bahamas"",
+    ""weight"": ""-1.0957726371804319""
+  }, {
+    ""category"": ""Denmark"",
+    ""weight"": ""-1.0949300834835829""
+  }, {
+    ""category"": ""Australia"",
+    ""weight"": ""-1.1043045012119255""
+  }, {
+    ""category"": ""Honduras"",
+    ""weight"": ""-1.1140215173173942""
+  }, {
+    ""category"": ""Northern Mariana Islands"",
+    ""weight"": ""-1.0695862559341713""
+  }, {
+    ""category"": ""Djibouti"",
+    ""weight"": ""-1.1264770106864812""
+  }, {
+    ""category"": ""Andorra"",
+    ""weight"": ""-1.120291091779247""
+  }, {
+    ""category"": ""Norway"",
+    ""weight"": ""-1.0778949641067181""
+  }, {
+    ""category"": ""Spain"",
+    ""weight"": ""-1.0794289015851417""
+  }, {
+    ""category"": ""Dominica"",
+    ""weight"": ""-1.0316892911110416""
+  }, {
+    ""category"": ""Réunion"",
+    ""weight"": ""-1.0839405240431494""
+  }, {
+    ""category"": ""St. Pierre \u0026 Miquelon"",
+    ""weight"": ""-1.0327842450411213""
+  }, {
+    ""category"": ""France"",
+    ""weight"": ""-1.0777107111733795""
+  }, {
+    ""category"": ""Grenada"",
+    ""weight"": ""-1.0534583912378312""
+  }, {
+    ""category"": ""Sweden"",
+    ""weight"": ""-1.0730979262883462""
+  }, {
+    ""category"": ""Switzerland"",
+    ""weight"": ""-1.0688073884733842""
+  }, {
+    ""category"": ""U.S. Virgin Islands"",
+    ""weight"": ""-1.0444356753217339""
+  }, {
+    ""category"": ""Portugal"",
+    ""weight"": ""-1.057622636503468""
+  }, {
+    ""category"": ""Central African Republic"",
+    ""weight"": ""-1.0357442771286334""
+  }, {
+    ""category"": ""Malta"",
+    ""weight"": ""-1.065684274190756""
+  }, {
+    ""category"": ""Jamaica"",
+    ""weight"": ""-1.0546608348098867""
+  }, {
+    ""category"": ""Togo"",
+    ""weight"": ""-1.0694800366482682""
+  }, {
+    ""category"": ""Netherlands"",
+    ""weight"": ""-1.0371850977510628""
+  }, {
+    ""category"": ""Antigua \u0026 Barbuda"",
+    ""weight"": ""-0.99463006596166736""
+  }, {
+    ""category"": ""Singapore"",
+    ""weight"": ""-1.0259102940619302""
+  }, {
+    ""category"": ""Japan"",
+    ""weight"": ""-1.0401956196387907""
+  }, {
+    ""category"": ""Italy"",
+    ""weight"": ""-1.0307688379743869""
+  }, {
+    ""category"": ""Taiwan"",
+    ""weight"": ""-1.0371629220026828""
+  }, {
+    ""category"": ""Austria"",
+    ""weight"": ""-1.0162908540414655""
+  }, {
+    ""category"": ""Ireland"",
+    ""weight"": ""-1.0134720831289066""
+  }, {
+    ""category"": ""Brunei"",
+    ""weight"": ""-1.0243399304974743""
+  }, {
+    ""category"": ""Hong Kong"",
+    ""weight"": ""-1.0227357026700354""
+  }, {
+    ""category"": ""Slovenia"",
+    ""weight"": ""-1.0037128497364889""
+  }, {
+    ""category"": ""Slovakia"",
+    ""weight"": ""-1.0019976217457744""
+  }, {
+    ""category"": ""Iceland"",
+    ""weight"": ""-1.0003700464775496""
+  }, {
+    ""category"": ""Greece"",
+    ""weight"": ""-0.9932295665826566""
+  }, {
+    ""category"": ""United Kingdom"",
+    ""weight"": ""-0.988948547569565""
+  }, {
+    ""category"": ""St. Kitts \u0026 Nevis"",
+    ""weight"": ""-0.96812869112617006""
+  }, {
+    ""category"": ""Macau"",
+    ""weight"": ""-1.0073943914794616""
+  }, {
+    ""category"": ""Poland"",
+    ""weight"": ""-0.996179760017152""
+  }, {
+    ""category"": ""Turkmenistan"",
+    ""weight"": ""-0.952387145976635""
+  }, {
+    ""category"": ""Timor-Leste"",
+    ""weight"": ""-0.96273323299079838""
+  }, {
+    ""category"": ""Latvia"",
+    ""weight"": ""-0.98540718409608974""
+  }, {
+    ""category"": ""Aruba"",
+    ""weight"": ""-0.97531383067902255""
+  }, {
+    ""category"": ""Germany"",
+    ""weight"": ""-0.97662692892561309""
+  }, {
+    ""category"": ""Lithuania"",
+    ""weight"": ""-0.97475458874583354""
+  }, {
+    ""category"": ""Finland"",
+    ""weight"": ""-0.98867732419924115""
+  }, {
+    ""category"": ""Guernsey"",
+    ""weight"": ""-0.94748162012772852""
+  }, {
+    ""category"": ""Burundi"",
+    ""weight"": ""-0.978450533899696""
+  }, {
+    ""category"": ""Côte d’Ivoire"",
+    ""weight"": ""-0.96631853156846748""
+  }, {
+    ""category"": ""Bermuda"",
+    ""weight"": ""-0.9433766922810406""
+  }, {
+    ""category"": ""Colombia"",
+    ""weight"": ""-0.99122603978127433""
+  }, {
+    ""category"": ""New Zealand"",
+    ""weight"": ""-0.95756513707369506""
+  }, {
+    ""category"": ""India"",
+    ""weight"": ""-0.96800283669875831""
+  }, {
+    ""category"": ""Somalia"",
+    ""weight"": ""-0.94838524674783042""
+  }, {
+    ""category"": ""Croatia"",
+    ""weight"": ""-0.96549385007979294""
+  }, {
+    ""category"": ""Guinea"",
+    ""weight"": ""-0.94431618054306377""
+  }, {
+    ""category"": ""Tanzania"",
+    ""weight"": ""-0.96560109654944726""
+  }, {
+    ""category"": ""Angola"",
+    ""weight"": ""-0.96296972144652293""
+  }, {
+    ""category"": ""Sierra Leone"",
+    ""weight"": ""-0.94050987837724043""
+  }, {
+    ""category"": ""Laos"",
+    ""weight"": ""-0.97045404727673257""
+  }, {
+    ""category"": ""Nepal"",
+    ""weight"": ""-0.95561557685351994""
+  }, {
+    ""category"": ""Bangladesh"",
+    ""weight"": ""-0.94844458137217069""
+  }, {
+    ""category"": ""Nigeria"",
+    ""weight"": ""-0.94628922193847642""
+  }, {
+    ""category"": ""Cyprus"",
+    ""weight"": ""-0.97941104429378356""
+  }, {
+    ""category"": ""Malaysia"",
+    ""weight"": ""-0.94433029680047387""
+  }, {
+    ""category"": ""Gabon"",
+    ""weight"": ""-0.96253308179425812""
+  }, {
+    ""category"": ""Lesotho"",
+    ""weight"": ""-0.91686397439215406""
+  }, {
+    ""category"": ""Fiji"",
+    ""weight"": ""-0.96074133063949319""
+  }, {
+    ""category"": ""Israel"",
+    ""weight"": ""-0.92334101797294466""
+  }, {
+    ""category"": ""Czechia"",
+    ""weight"": ""-0.91450231415338545""
+  }, {
+    ""category"": ""Gibraltar"",
+    ""weight"": ""-0.90514135605850532""
+  }, {
+    ""category"": ""Yemen"",
+    ""weight"": ""-0.92688108591230822""
+  }, {
+    ""category"": ""Botswana"",
+    ""weight"": ""-0.90614934578433659""
+  }, {
+    ""category"": ""Dominican Republic"",
+    ""weight"": ""-0.92131158355846321""
+  }, {
+    ""category"": ""Palestine"",
+    ""weight"": ""-0.92642993583134359""
+  }, {
+    ""category"": ""Barbados"",
+    ""weight"": ""-0.89479290452142235""
+  }, {
+    ""category"": ""Congo - Kinshasa"",
+    ""weight"": ""-0.90220334742056985""
+  }, {
+    ""category"": ""Haiti"",
+    ""weight"": ""-0.91231899974782094""
+  }, {
+    ""category"": ""Pakistan"",
+    ""weight"": ""-0.90986904242866307""
+  }, {
+    ""category"": ""Zambia"",
+    ""weight"": ""-0.89914607977315975""
+  }, {
+    ""category"": ""Zimbabwe"",
+    ""weight"": ""-0.91036430234738219""
+  }, {
+    ""category"": ""South Africa"",
+    ""weight"": ""-0.90744083291565347""
+  }, {
+    ""category"": ""British Virgin Islands"",
+    ""weight"": ""-0.88181012997072339""
+  }, {
+    ""category"": ""Philippines"",
+    ""weight"": ""-0.90613437099695759""
+  }, {
+    ""category"": ""Bolivia"",
+    ""weight"": ""-0.90434150239286215""
+  }, {
+    ""category"": ""Bulgaria"",
+    ""weight"": ""-0.90142144025463944""
+  }, {
+    ""category"": ""Cameroon"",
+    ""weight"": ""-0.88733553920775465""
+  }, {
+    ""category"": ""Argentina"",
+    ""weight"": ""-0.89621590851924748""
+  }, {
+    ""category"": ""Ethiopia"",
+    ""weight"": ""-0.8900537152137532""
+  }, {
+    ""category"": ""Qatar"",
+    ""weight"": ""-0.89004023555826861""
+  }, {
+    ""category"": ""Uganda"",
+    ""weight"": ""-0.88413308690345027""
+  }, {
+    ""category"": ""Romania"",
+    ""weight"": ""-0.88747482385279219""
+  }, {
+    ""category"": ""Bahrain"",
+    ""weight"": ""-0.884332828994903""
+  }, {
+    ""category"": ""Ukraine"",
+    ""weight"": ""-0.88103189205804155""
+  }, {
+    ""category"": ""Mauritania"",
+    ""weight"": ""-0.89061312571417894""
+  }, {
+    ""category"": ""Cape Verde"",
+    ""weight"": ""-0.88635296719438228""
+  }, {
+    ""category"": ""Niger"",
+    ""weight"": ""-0.86804971066700864""
+  }, {
+    ""category"": ""Ghana"",
+    ""weight"": ""-0.87574583840669629""
+  }, {
+    ""category"": ""Mozambique"",
+    ""weight"": ""-0.876586282317281""
+  }, {
+    ""category"": ""Kuwait"",
+    ""weight"": ""-0.92451851785409112""
+  }, {
+    ""category"": ""Cambodia"",
+    ""weight"": ""-0.869968146475118""
+  }, {
+    ""category"": ""Rwanda"",
+    ""weight"": ""-0.85293394253819821""
+  }, {
+    ""category"": ""Egypt"",
+    ""weight"": ""-0.87886358923468966""
+  }, {
+    ""category"": ""Mauritius"",
+    ""weight"": ""-0.86006873500934478""
+  }, {
+    ""category"": ""Sudan"",
+    ""weight"": ""-0.86131129409596263""
+  }, {
+    ""category"": ""Montenegro"",
+    ""weight"": ""-0.87322219702978909""
+  }, {
+    ""category"": ""Burkina Faso"",
+    ""weight"": ""-0.84787060885297061""
+  }, {
+    ""category"": ""United Arab Emirates"",
+    ""weight"": ""-0.86118783246994846""
+  }, {
+    ""category"": ""Jordan"",
+    ""weight"": ""-0.85664382104733439""
+  }, {
+    ""category"": ""Armenia"",
+    ""weight"": ""-0.8628595940849485""
+  }, {
+    ""category"": ""New Caledonia"",
+    ""weight"": ""-0.8383005197173159""
+  }, {
+    ""category"": ""South Korea"",
+    ""weight"": ""-0.85277427237935111""
+  }, {
+    ""category"": ""Saudi Arabia"",
+    ""weight"": ""-0.85892667517144516""
+  }, {
+    ""category"": ""Curaçao"",
+    ""weight"": ""-0.93675575541604184""
+  }, {
+    ""category"": ""Peru"",
+    ""weight"": ""-0.85770258162897428""
+  }, {
+    ""category"": ""Greenland"",
+    ""weight"": ""-0.83281723222691384""
+  }, {
+    ""category"": ""Belarus"",
+    ""weight"": ""-0.85473797282122055""
+  }, {
+    ""category"": ""Canada"",
+    ""weight"": ""-0.86750031619174484""
+  }, {
+    ""category"": ""Iraq"",
+    ""weight"": ""-0.851734848505191""
+  }, {
+    ""category"": ""Afghanistan"",
+    ""weight"": ""-0.82936895468085958""
+  }, {
+    ""category"": ""Uruguay"",
+    ""weight"": ""-0.87417322788921425""
+  }, {
+    ""category"": ""Hungary"",
+    ""weight"": ""-0.82813408903274721""
+  }, {
+    ""category"": ""Serbia"",
+    ""weight"": ""-0.84249524381267427""
+  }, {
+    ""category"": ""Oman"",
+    ""weight"": ""-0.830506534738681""
+  }, {
+    ""category"": ""Azerbaijan"",
+    ""weight"": ""-0.84438953272885553""
+  }, {
+    ""category"": ""Maldives"",
+    ""weight"": ""-0.83926131158459749""
+  }, {
+    ""category"": ""Libya"",
+    ""weight"": ""-0.84235374102265637""
+  }, {
+    ""category"": ""Tajikistan"",
+    ""weight"": ""-0.83493948643046911""
+  }, {
+    ""category"": ""Namibia"",
+    ""weight"": ""-0.82239639703070844""
+  }, {
+    ""category"": ""Belize"",
+    ""weight"": ""-0.81893041838450364""
+  }, {
+    ""category"": ""Brazil"",
+    ""weight"": ""-0.83608329120614489""
+  }, {
+    ""category"": ""Iran"",
+    ""weight"": ""-0.82544294289941345""
+  }, {
+    ""category"": ""Faroe Islands"",
+    ""weight"": ""-0.80779743832118944""
+  }, {
+    ""category"": ""Morocco"",
+    ""weight"": ""-0.818996857433149""
+  }, {
+    ""category"": ""Indonesia"",
+    ""weight"": ""-0.806172725391402""
+  }, {
+    ""category"": ""Marshall Islands"",
+    ""weight"": ""-0.79103118205559553""
+  }, {
+    ""category"": ""Gambia"",
+    ""weight"": ""-0.79632589422538813""
+  }, {
+    ""category"": ""Kosovo"",
+    ""weight"": ""-0.8023231213610984""
+  }, {
+    ""category"": ""Mexico"",
+    ""weight"": ""-0.80758122081934491""
+  }, {
+    ""category"": ""Russia"",
+    ""weight"": ""-0.79655368843753027""
+  }, {
+    ""category"": ""Tunisia"",
+    ""weight"": ""-0.79983254997765285""
+  }, {
+    ""category"": ""Liechtenstein"",
+    ""weight"": ""-0.77915533073763044""
+  }, {
+    ""category"": ""Mongolia"",
+    ""weight"": ""-0.79584046160149047""
+  }, {
+    ""category"": ""Kyrgyzstan"",
+    ""weight"": ""-0.79813617747704579""
+  }, {
+    ""category"": ""Macedonia (FYROM)"",
+    ""weight"": ""-0.78749400617247511""
+  }, {
+    ""category"": ""Chad"",
+    ""weight"": ""-0.77785759954409328""
+  }, {
+    ""category"": ""Thailand"",
+    ""weight"": ""-0.78602038352268222""
+  }, {
+    ""category"": ""Albania"",
+    ""weight"": ""-0.78329658042348438""
+  }, {
+    ""category"": ""Moldova"",
+    ""weight"": ""-0.78143972422866881""
+  }, {
+    ""category"": ""Guinea-Bissau"",
+    ""weight"": ""-0.76912304960829359""
+  }, {
+    ""category"": ""Turks \u0026 Caicos Islands"",
+    ""weight"": ""-0.7622783858970873""
+  }, {
+    ""category"": ""Turkey"",
+    ""weight"": ""-0.77085150683075687""
+  }, {
+    ""category"": ""Bosnia \u0026 Herzegovina"",
+    ""weight"": ""-0.76613721535116874""
+  }, {
+    ""category"": ""Algeria"",
+    ""weight"": ""-0.76905060193492625""
+  }, {
+    ""category"": ""Swaziland"",
+    ""weight"": ""-0.75894503769304145""
+  }, {
+    ""category"": ""Vietnam"",
+    ""weight"": ""-0.76226132949592551""
+  }, {
+    ""category"": ""French Guiana"",
+    ""weight"": ""-0.7575229762000868""
+  }, {
+    ""category"": ""Mali"",
+    ""weight"": ""-0.74470948513557556""
+  }, {
+    ""category"": ""Senegal"",
+    ""weight"": ""-0.75080537220853161""
+  }, {
+    ""category"": ""Ecuador"",
+    ""weight"": ""-0.77815296083034347""
+  }, {
+    ""category"": ""Madagascar"",
+    ""weight"": ""-0.73911111149517672""
+  }, {
+    ""category"": ""São Tomé \u0026 Príncipe"",
+    ""weight"": ""-0.72649085534325009""
+  }, {
+    ""category"": ""Malawi"",
+    ""weight"": ""-0.71555726666903419""
+  }, {
+    ""category"": ""Uzbekistan"",
+    ""weight"": ""-0.71896392597965031""
+  }, {
+    ""category"": ""Mayotte"",
+    ""weight"": ""-0.70978990953660359""
+  }, {
+    ""category"": ""Caribbean Netherlands"",
+    ""weight"": ""-0.69024099193937771""
+  }, {
+    ""category"": ""Syria"",
+    ""weight"": ""-0.685773465127486""
+  }, {
+    ""category"": ""China"",
+    ""weight"": ""-0.65125371984452451""
+  }, {
+    ""category"": ""Norfolk Island"",
+    ""weight"": ""-0.65652775575636024""
+  }, {
+    ""category"": ""St. Martin"",
+    ""weight"": ""-0.65397759382108034""
+  }, {
+    ""category"": ""Chile"",
+    ""weight"": ""-0.63881753050148116""
+  }, {
+    ""category"": ""Seychelles"",
+    ""weight"": ""-0.652095952642207""
+  }, {
+    ""category"": ""Liberia"",
+    ""weight"": ""-0.65146269463541806""
+  }, {
+    ""category"": ""Comoros"",
+    ""weight"": ""-0.65022443118956774""
+  }, {
+    ""category"": ""Bhutan"",
+    ""weight"": ""-0.65022443118956774""
+  }, {
+    ""category"": ""Cook Islands"",
+    ""weight"": ""-0.65022443118956774""
+  }, {
+    ""category"": ""American Samoa"",
+    ""weight"": ""-0.65022443118956774""
+  }, {
+    ""category"": ""Guadeloupe"",
+    ""weight"": ""-0.75475085469069791""
+  }, {
+    ""category"": ""Kenya"",
+    ""weight"": ""-0.60453525084039694""
+  }, {
+    ""category"": ""Kazakhstan"",
+    ""weight"": ""-0.59952271304075355""
+  }, {
+    ""category"": ""(not set)"",
+    ""weight"": ""-0.53992093258866791""
+  }, {
+    ""category"": ""Lebanon"",
+    ""weight"": ""-0.5997377710760956""
+  }, {
+    ""category"": ""Georgia"",
+    ""weight"": ""-0.52445384696802388""
+  }, {
+    ""category"": ""Venezuela"",
+    ""weight"": ""-0.30242494765492195""
+  }, {
+    ""category"": ""Puerto Rico"",
+    ""weight"": ""-0.078978494215643846""
+  }, {
+    ""category"": ""St. Lucia"",
+    ""weight"": ""-0.43708065178338229""
+  }, {
+    ""category"": ""United States"",
+    ""weight"": ""0.053650543567157233""
+  }, {
+    ""category"": ""Nicaragua"",
+    ""weight"": ""0.26985313950237638""
+  }, {
+    ""category"": ""Anguilla"",
+    ""weight"": ""6.3316609750121824""
+  }]
+}"
+medium,,"{
+  ""category_weights"": [{
+    ""category"": ""affiliate"",
+    ""weight"": ""-0.95521905460530632""
+  }, {
+    ""category"": ""referral"",
+    ""weight"": ""-0.80177070402134221""
+  }, {
+    ""category"": ""(not set)"",
+    ""weight"": ""-0.75694799000924784""
+  }, {
+    ""category"": ""organic"",
+    ""weight"": ""-0.57953243756969075""
+  }, {
+    ""category"": ""cpc"",
+    ""weight"": ""-0.50461283858763151""
+  }, {
+    ""category"": ""cpm"",
+    ""weight"": ""-0.48637019929121922""
+  }, {
+    ""category"": ""(none)"",
+    ""weight"": ""-0.30004260436817537""
+  }]
+}"
